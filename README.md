@@ -4,8 +4,6 @@ Hi 👋 My name is mekukun
 Just a guy who loves daydreaming
 --------------------------------
 
-My career's goal is to realize NerveGear (ナーヴギア) from SAO franchise. Well, it's going to be a long journey but hey, what's a life without a dream?
-
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [piangree147@gmail.com](mailto:piangree147@gmail.com)
 * 🚀  I'm currently working on [a course project](http://github.com/mekukun/OC-Team1)
