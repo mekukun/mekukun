@@ -1,14 +1,7 @@
 Hi 👋 My name is mekukun
 ========================
 
-Just a guy who loves daydreaming
 --------------------------------
-
-* 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [piangree147@gmail.com](mailto:piangree147@gmail.com)
-* 🚀  I'm currently working on [a course project](http://github.com/mekukun/OC-Team1)
-* 🧠  I'm learning Python, React, MUI & more other stuffs!
-* 🤝  I'm open to collaborating on Web Development!
 
 ### Skills
 
